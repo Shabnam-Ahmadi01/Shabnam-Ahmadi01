@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "شبنم احمدی
+title                    : "شبنم احمدی"
 title_separator          : "-"
 name                     : "Shabnam" 
 description              : "Welcome to my web site."
