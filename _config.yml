@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Shabnam Ahmadi"
-  avatar           : "/downloads/profile2.jpg"
+  avatar           : "/assets/images/profile2.jpg"
   bio              : I'm a student  of Computer engineering at IUST. I love learning new things but im a little lazy at it.... So far I've learned some science, math, python programming and I love drawing.
   location         : "تهران"
   email            : ahmadi.shabnam03@gmail.com
