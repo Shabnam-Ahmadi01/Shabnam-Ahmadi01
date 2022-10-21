@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-|           | **python**                    |
+|           | **python**                              |
 |----|------|--------------------------------|
 |2020|summer| **<a href="https://www.udemy.com/course/pythonforbeginnersintro/learn/lecture/8257000#overview">python for beginners</a>**         |
 |----|------|--------------------------------|
@@ -20,7 +20,7 @@ comments: false
 
 |           | **deep learning**                       |
 |----|------|--------------------------------|
-|2020|summer| **<a href="http://www.snrazavi.ir/dl-itrc/">deep learning  perian tutorial</a>**         |
+|2020|summer| **<a href="http://www.snrazavi.ir/dl-itrc/">deep learning  persian tutorial</a>**         |
 |----|------|--------------------------------|
 |2020|summer| **<a href="https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3">neural network from scratch</a>** |
 |----|------|--------------------------------|
