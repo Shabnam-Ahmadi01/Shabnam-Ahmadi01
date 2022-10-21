@@ -4,13 +4,13 @@ author_profile: true
 permalink: /links/
 title: Links
 tags: [Studying, courses]
-modified: 9-14-2019
+modified: 10-21-2020
 comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite Artist](https://www.instagram.com/everyday.croquis/)
+* [Places I want to visit](https://www.japan-guide.com/e/e3450.html)
+* [My home city](https://en.wikivoyage.org/wiki/Isfahan)
+* [My university](https://www.iust.ac.in/)
 
