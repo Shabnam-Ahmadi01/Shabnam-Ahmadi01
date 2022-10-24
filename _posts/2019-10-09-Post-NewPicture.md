@@ -1,23 +1,12 @@
 ---
 layout: posts
-title: Test Post
+title: reCAPTCHA project
 ---
+##  An Intresting fact about reCAPTCHA
+reCAPTCHA is a CAPTCHA system that enables web hosts to distinguish between human and automated access to websites. The original version asked users to decipher hard to read text or match images. Version 2 also asked users to decipher text or match images if the analysis of cookies and canvas rendering suggested the page was being downloaded automatically.Since version 3, reCAPTCHA will never interrupt users and is intended to run automatically when users load pages or click buttons.reCAPTCHA is owned by Google.
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+The original iteration of the service was a mass collaboration platform designed for the digitization of books, particularly those that were too illegible to be scanned by computers. The verification prompts utilized pairs of words from scanned pages, with one known word used as a control for verification, and the second used to crowdsource the reading of an uncertain word.reCAPTCHA was originally developed by Luis von Ahn, David Abraham, Manuel Blum, Michael Crawford, Ben Maurer, Colin McMillen, and Edison Tan at Carnegie Mellon University's main Pittsburgh campus.It was acquired by Google in September 2009. The system helped to digitize the archives of The New York Times, and was subsequently used by Google Books for similar purposes.
 
-[my favorite website](http://www.google.com)
+The system was reported as displaying over 100 million CAPTCHAs every day, on sites such as Facebook, TicketMaster, Twitter, 4chan, CNN.com, StumbleUpon, Craigslist (since June 2008), and the U.S. National Telecommunications and Information Administration's digital TV converter box coupon program website (as part of the US DTV transition).
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
-
-
-
-![alt text](../assets/images/grouppic.jpg "Team Picture")
-
----
-**Test**: This is atest
+In 2014, Google pivoted the service away from its original concept, with a focus on reducing the amount of user interaction needed to verify a user, and only presenting human recognition challenges (such as identifying images in a set that satisfy a specific prompt) if behavioral analysis suspects that the user may be a bot.
