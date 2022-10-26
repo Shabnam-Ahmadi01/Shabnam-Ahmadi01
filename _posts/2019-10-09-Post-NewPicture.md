@@ -3,6 +3,7 @@ layout: posts
 title: reCAPTCHA project
 ---
 ##  An Intresting fact about reCAPTCHA
+[img](/assets/image/recaptcha.png)
 reCAPTCHA is a CAPTCHA system that enables web hosts to distinguish between human and automated access to websites. The original version asked users to decipher hard to read text or match images. Version 2 also asked users to decipher text or match images if the analysis of cookies and canvas rendering suggested the page was being downloaded automatically.Since version 3, reCAPTCHA will never interrupt users and is intended to run automatically when users load pages or click buttons.reCAPTCHA is owned by Google.
 
 The original iteration of the service was a mass collaboration platform designed for the digitization of books, particularly those that were too illegible to be scanned by computers. The verification prompts utilized pairs of words from scanned pages, with one known word used as a control for verification, and the second used to crowdsource the reading of an uncertain word.reCAPTCHA was originally developed by Luis von Ahn, David Abraham, Manuel Blum, Michael Crawford, Ben Maurer, Colin McMillen, and Edison Tan at Carnegie Mellon University's main Pittsburgh campus.It was acquired by Google in September 2009. The system helped to digitize the archives of The New York Times, and was subsequently used by Google Books for similar purposes.
