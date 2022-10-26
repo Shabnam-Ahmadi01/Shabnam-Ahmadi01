@@ -9,7 +9,8 @@ comments: false
 ---
 
 
-* [manga](http://www.bjjheros.com/)
-* [movies]
-* []
+* [manga](https://en.wikipedia.org/wiki/Chainsaw_Man)
+* [sport](http://www.songshancn.com/worldwide/en/culture_info.php?softid=243)
+
+
 
