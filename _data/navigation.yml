@@ -15,7 +15,7 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
-    - title: "website_course"
+  - title: "website_course"
     url: /website-course/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
