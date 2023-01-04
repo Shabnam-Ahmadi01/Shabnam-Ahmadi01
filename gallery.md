@@ -31,6 +31,10 @@ gallery:
     image_path: /assets/images/lineart.jpg
     alt: "everyday croquis"
     title: "line art - everyday croquis"
+  - url: /assets/images/me.jpg
+    image_path: /assets/images/me.jpg
+    alt: "me"
+    title: "the cat"  
 ---
 
 {% include gallery caption="This is a art gallery from my favorite artists." %}
